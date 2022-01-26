@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Julia Zangirolame",
+      "email": "Julia@zang.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Vitor Hugo",
+      "email": "vitor@hugo.com"
+    },
+    {
+      "name": "Joivaneter",
+      "email": "Joivaneter@jo.com",
+      "id": 3
+    },
+    {
+      "name": "Marcus",
+      "email": "Marcus@vin.com",
+      "id": 4
+    },
+    {
+      "name": "Julia graziele",
+      "email": "Julia@gra.com",
+      "id": 5
+    },
+    {
+      "name": "Juliazangirolame",
+      "email": "julia@zan.com",
+      "id": 6
+    },
+    {
+      "name": "Julia gra",
+      "email": "Julia@gra.com",
+      "id": 7
+    },
+    {
+      "name": "Vitor Hugo da Rocha",
+      "email": "vhrocha@gmail",
+      "id": 8
+    },
+    {
+      "name": "Julia graziele",
+      "email": "Julia@gra.com",
+      "id": 10
+    },
+    {
+      "name": "nazare",
+      "email": "naza@gmail.com",
+      "id": 11
+    }
+  ]
+}
